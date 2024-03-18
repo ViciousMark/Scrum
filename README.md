@@ -29,5 +29,6 @@ A Metodologia Scrum promove uma abordagem iterativa e colaborativa para o desenv
 
 ______
 ## Papéis e responsabilidades
-
-
+No Scrum, os papéis não são cargos fixos, mas sim responsabilidades que podem ser assumidas por qualquer membro da equipe.
+A essência do Scrum é o empirismo, a auto-organização e a melhoria contínua, permitindo que as equipes se adaptem e evoluam.
+## Papéis do 
